@@ -151,13 +151,26 @@ img{
 }
 /*FINE BOX VITTORIE*/
 
+/*INIZIO BOX FINALE*/
 
+table{
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
 
+th{
+    font-size: 20px;
+    padding: 10px;
+    background-color: lightblue;
+    color: red;
+    font-weight: bold;
+}
 
-
-/*INIZIO BOX GENERALE RISULTATI*/
-
-
+td{
+    border-bottom: 1px solid black;
+}
 /*FINE BOX GENERALE RISULTATI*/
 
 /*INIZIO SEZIONE QUERY MAX WIDTH 500PX*/
@@ -200,9 +213,14 @@ img{
 /*FINE BOX VITTORIE*/
 
 
-
-
 /*INZIO BOX FINALE*/
+table{
+    font-size: 15px;
+}
+
+th{
+    font-size: 14px;
+}
 
 /*FINE BOX FINALE*/
 
@@ -255,7 +273,9 @@ img{
 
 /*INIZIO BOX GENERALE RISULTATI*/
 
-
+table{
+    font-size: 15px;
+}
 
 /*FINE BOX GENERALE RISULTATI*/
 
