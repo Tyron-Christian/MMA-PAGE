@@ -173,6 +173,8 @@ td{
 }
 /*FINE BOX GENERALE RISULTATI*/
 
+
+
 /*INIZIO SEZIONE QUERY MAX WIDTH 500PX*/
 @media screen and (max-width: 500px){
     
@@ -221,10 +223,19 @@ table{
 th{
     font-size: 14px;
 }
-
 /*FINE BOX FINALE*/
 
+/*cambio nome atleta*/
+.alexvolk{
+    font-size: 22px;
+    color: rgb(177, 153, 22);
+}
 
+.scorealex{
+    font-size: 22px;
+    color: rgb(177, 153, 22);
+}
+/*fine cambio nome*/
 
 
 }
