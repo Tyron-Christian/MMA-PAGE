@@ -1,0 +1,255 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto",sans-serif;
+    list-style-type: none;
+}
+
+.boxtitolo{
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titolo{
+    color: rgb(189, 170, 67);
+    font-size: 55px;
+    font-weight: bold;
+}
+
+
+.containerbanner{
+    height: 150px;
+    display: flex;
+
+}
+
+.bannercard{
+    display: flex;
+    align-items: center;
+}
+
+.banner1{
+    font-size: 45px;
+    color: red;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.linearossa{
+    width: 300px;
+    height: 8px;
+    background-color: red;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+
+/*INIZIO CONTAINER DEL MAIN CENTRALE*/
+.containermain{
+    display: flex;
+    flex-direction: column;
+    height: 5000px;
+}
+
+.containerfoto{
+    margin-top: 20px;
+    height: 420px;
+    display: flex;
+    justify-content: center;
+}
+
+.numero{
+    color: rgb(189, 170, 67);
+    font-weight: bold;
+    font-size: 35px;
+    position: absolute;
+    top: 300px;
+    margin-left: 30px;
+    padding: 20px;
+    background-color: black;
+    border: 1px solid  rgb(189, 170, 67);;
+    border-radius: 50%;
+}
+
+.boxfoto{
+    width: 710px;
+    height: 405px;
+}
+
+.score{
+    background-color: black;
+}
+
+.nomeatleta{
+    color: rgb(189, 170, 67);
+    font-size: 30px;
+    margin-left: 40px;
+    font-weight: bold;
+}
+
+.score{
+    color: rgb(189, 170, 67);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.sottofoto{
+ display: flex;
+ justify-content: space-evenly
+}
+
+.caratteristiche{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.boxfisico{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.boxskills{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.li1{
+    background-color: purple;
+    padding: 10px;
+    color: white;
+    margin-bottom: 20px;
+    font-size: 30px;
+    word-spacing: 1px;
+}
+
+.linormali{
+    margin-top: 10px;
+}
+
+i{
+    font-size: 40px;
+    color: black;
+    font-weight: bolder;
+}
+
+.biografia{
+    height: 500px;
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.boxbio{
+    margin-top: 20px;
+}
+
+
+.colortext{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.muchcarreer{
+    font-size: 25px;
+    font-weight: bold;
+    background-color: darkblue;
+    color: white;
+    margin-top: 10px;
+    padding: 10px;
+    width: 1200px;
+}
+
+.red{
+    color: red;
+}
+
+.kamaru{
+    font-size: 25px;
+    font-weight: bold;
+    background-color: black;
+    color: limegreen;
+    margin-top: 10px;
+    padding: 10px;
+    width: 1200px;
+}
+
+.numerokamaru{
+    color: rgb(189, 170, 67);
+    font-weight: bold;
+    font-size: 35px;
+    position: absolute;
+    top: 1600px;
+    margin-left: 30px;
+    padding: 20px;
+    background-color: black;
+    border: 1px solid  rgb(189, 170, 67);;
+    border-radius: 50%;
+}
+
+.numeroizzy{
+    color: rgb(189, 170, 67);
+    font-weight: bold;
+    font-size: 35px;
+    position: absolute;
+    top: 2900px;
+    margin-left: 30px;
+    padding: 20px;
+    background-color: black;
+    border: 1px solid  rgb(189, 170, 67);;
+    border-radius: 50%;
+}
+
+.israel{
+    font-size: 25px;
+    font-weight: bold;
+    background-color: lightskyblue;
+    color: black;
+    margin-top: 10px;
+    padding: 10px;
+    width: 1229px;
+}
+
+.numeralex{
+    color: rgb(189, 170, 67);
+    font-weight: bold;
+    font-size: 35px;
+    position: absolute;
+    top: 4100px;
+    margin-left: 30px;
+    padding: 20px;
+    background-color: black;
+    border: 1px solid  rgb(189, 170, 67);;
+    border-radius: 50%;
+}
+
+.numerofrancis{
+    color: rgb(189, 170, 67);
+    font-weight: bold;
+    font-size: 35px;
+    position: absolute;
+    top: 5350px;
+    margin-left: 30px;
+    padding: 20px;
+    background-color: black;
+    border: 1px solid  rgb(189, 170, 67);;
+    border-radius: 50%;
+}
+
+.vittoriequery{
+    display: none;
+}

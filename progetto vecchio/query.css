@@ -1,0 +1,304 @@
+@media screen and (max-width: 500px) {
+  .barradestra{
+    display: none;
+  }
+  .barrasinistra{
+    display: none;
+  }
+
+img{
+  width: 100%;
+  height: 250px;
+}
+
+li{
+  font-size: 20px;
+}
+
+  /*modifiche al titolo*/
+.titolo{
+  font-size: 25px;
+}
+
+.boxtitolo{
+  height: 50px;
+  width: 100%;
+}
+  /*fine modifiche al titolo*/
+
+  /*modifiche al banner*/
+
+.bannercard{
+  width: 100%;
+}
+
+.banner1{
+  font-size: 25px;
+}
+
+.linearossa{
+  width: 200px;
+  margin-top: 60px;
+}
+  /*fine modifiche al banner*/
+
+/*inizio ai div delle foto*/
+.containermain{
+  width: 100%;
+  height: auto;
+}
+
+.containerfoto{
+  width: 100%;
+}
+
+.boxfoto{
+  width: 100%;
+  height: auto;
+}
+
+/*fine ai div delle foto*/
+
+/*div numeri tolti*/
+.numero{
+  display: none;
+ }
+
+ .numerokamaru{
+   display: none;
+ }
+
+ .numeroizzy{
+   display: none;
+ }
+
+ .numeralex{
+   display: none;
+ }
+
+ .numerofrancis{
+   display: none;
+ }
+/*inizio modifiche ai banner delle informazioni degli atleti*/
+
+.infoiniziali{
+  width: 100%;
+  height: auto;
+}
+
+
+.sottofoto{
+  width: 100%;
+  margin-top: -80px;
+  height: 50px;
+  align-items: center;
+}
+
+.nomeatleta{
+  font-size: 25px;
+  margin: 0;
+}
+
+.score{
+  font-size: 25px;
+  margin: 0;
+}
+
+/*inizio div caratteristiche*/
+.caratteristiche{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.li1{
+  font-size: 25px;
+}
+/*fine div caratteristiche*/
+
+/*inizio div biografia*/
+
+.biografia{
+  width: 100%;
+  margin-bottom: 160px;
+}
+
+.boxbio{
+  width: 100%;
+  height: auto;
+}
+
+.colortext{
+  width: 100%;
+  font-size: 25px;
+}
+
+.listabio{
+  width: 100%;
+  display: none;
+}
+
+.israel{
+  width: 100%;
+  font-size: 15px;
+  height: auto;
+}
+
+.vittoriequery{
+  display: block;
+}
+
+.sottofotokamaru{
+  width: 100%;
+  margin-top: -120px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.nomeatletakamaru{
+  font-size: 25px;
+  margin: 0;
+}
+
+.scorekamaru{
+  font-size: 25px;
+  margin: 0;
+}
+/*fine div biografia*/
+
+/*inizio boxisrael*/
+.boxisrael{
+  width: 100%;
+  margin-top: -250px;
+}
+/*fine box israle*/
+
+/*inizio box alexander volk*/
+.boxalex{
+  width: 100%;
+  margin-top: -180px;
+}
+
+.nomeatletaalex{
+  font-size: 20px;
+}
+
+.scorealex{
+  font-size: 20px;
+}
+/*fine box alex volk*/
+
+/*inizio box francis*/
+
+.nomeatletafrancis{
+  font-size: 22px;
+}
+
+.scorefrancis{
+  font-size: 22px;
+}
+.boxafrancis{
+  width: 100%;
+  margin-top: -280px;
+  margin-bottom: -300px;
+}
+/*fine box francis*/
+
+/*fine modifiche ai banner delle informazioni degli atleti*/
+}
+
+@media screen and (max-width: 375px) {
+  .banner1{
+    font-size: 20px;
+  }
+
+  .sottofoto{
+    margin-top: -120px;
+  }
+
+  .nomeatletaalex{
+    font-size: 18px;
+  }
+  
+  .scorealex{
+    font-size: 18px;
+  }
+
+.biografia{
+  height: auto;
+}
+
+.boxafrancis{
+  margin-bottom: -80px;
+}
+
+}
+
+@media screen and (max-width: 350px) {
+  .banner1{
+    font-size: 18px;
+  }
+
+  .sottofoto{
+    margin-top: -120px;
+  }
+
+  .nomeatletaalex{
+    font-size: 16px;
+  }
+  
+  .scorealex{
+    font-size: 16px;
+  }
+
+.biografia{
+  height: auto;
+}
+
+.boxafrancis{
+  margin-bottom: -80px;
+}
+
+.scorefrancis{
+  font-size: 18px;
+}
+
+.nomeatletafrancis{
+  font-size: 18px;
+}
+
+.nomeatletakamaru{
+  font-size: 18px;
+}
+.scorekamaru{
+  font-size: 18px;
+}
+
+.nomeatleta{
+  font-size: 20px;
+}
+
+.score{
+  font-size: 20px;
+}
+
+.boxafrancis{
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+
+.boxisrael{
+  margin-top: 50px;
+}
+
+.biografia{
+  margin-bottom: 50px;
+}
+
+.boxalex{
+  margin-top: 50px;
+}
+}
