@@ -9,43 +9,32 @@ let table1 = [
 ];
 
 let table2 = [
-    prima = {evento : "UFC 128", avversario : "SHOGUN RUA", metodo: "KO"},
-    {evento : "UFC 135", avversario : "RAMPAGE JACKSON", metodo: "SOTTOMISSIONE"},
-    {evento : "UFC 140", avversario : "LYOTO MACHIDA", metodo: "SOTTOMISSIONE"},
-    {evento : "UFC 145", avversario : "RASHAD EVANS", metodo: "DECISIONE UNANIME"},
-    {evento : "UFC 152", avversario : "VITOR BELFORT", metodo: "SOTTOMISSIONE"},
-    {evento : "UFC 214", avversario : "DANIEL CORMIER", metodo: "TKO"},
-    {evento : "UFC 232", avversario : "ALEXANDER GUSTAFSSON", metodo: "TKO"}
+    prima = {evento : "UFC 235", avversario : "TYRON WOODLEY", metodo: "DECISIONE UNANIME"},
+    {evento : "UFC 245", avversario : "COLBY COVINGTON", metodo: "TKO "},
+    {evento : "UFC 258", avversario : "GILBERT BURNS", metodo: "TKO "},
+    {evento : "UFC 261", avversario : "JORGE MASVIDAL", metodo: "KO"},
 ];
 
 let table3 = [
-    prima = {evento : "UFC 128", avversario : "SHOGUN RUA", metodo: "KO"},
-    {evento : "UFC 135", avversario : "RAMPAGE JACKSON", metodo: "SOTTOMISSIONE"},
-    {evento : "UFC 140", avversario : "LYOTO MACHIDA", metodo: "SOTTOMISSIONE"},
-    {evento : "UFC 145", avversario : "RASHAD EVANS", metodo: "DECISIONE UNANIME"},
-    {evento : "UFC 152", avversario : "VITOR BELFORT", metodo: "SOTTOMISSIONE"},
-    {evento : "UFC 214", avversario : "DANIEL CORMIER", metodo: "TKO"},
-    {evento : "UFC 232", avversario : "ALEXANDER GUSTAFSSON", metodo: "TKO"}
+    prima = {evento : "UFC 236", avversario : "KEVIN GASTELUM", metodo: "DECISIONE UNANIME"},
+    {evento : "UFC 243", avversario : "ROBERT WHITTAKER", metodo: "TKO"},
+    {evento : "UFC 248", avversario : "YOEL ROMERO  ", metodo: "DECISIONE UNANIME"},
+    {evento : "UFC 253", avversario : "PAULO COSTA", metodo: "TKO"},
+    {evento : "UFC 263", avversario : "MARVIN VETTORI", metodo: "DECISIONE UNANIME"},
 ];
 
 let table4 = [
-    prima = {evento : "UFC 128", avversario : "SHOGUN RUA", metodo: "KO"},
-    {evento : "UFC 135", avversario : "RAMPAGE JACKSON", metodo: "SOTTOMISSIONE"},
-    {evento : "UFC 140", avversario : "LYOTO MACHIDA", metodo: "SOTTOMISSIONE"},
-    {evento : "UFC 145", avversario : "RASHAD EVANS", metodo: "DECISIONE UNANIME"},
-    {evento : "UFC 152", avversario : "VITOR BELFORT", metodo: "SOTTOMISSIONE"},
-    {evento : "UFC 214", avversario : "DANIEL CORMIER", metodo: "TKO"},
-    {evento : "UFC 232", avversario : "ALEXANDER GUSTAFSSON", metodo: "TKO"}
+    prima = {evento : "UFC 237", avversario : "JOSE ALDO", metodo: "DECISIONE UNANIME"},
+    {evento : "UFC 245", avversario : "MAX HOLLOWAY", metodo: "DECISIONE UNANIME"},
+    {evento : "UFC 251", avversario : "MAX HOLLOWAY", metodo: "DECISIONE NON UNANIME"},
+    {evento : "UFC 266", avversario : "BRIAN ORTEGA", metodo: "DECISIONE UNANIME"},
 ];
 
 let table5 = [
-    prima = {evento : "UFC 128", avversario : "SHOGUN RUA", metodo: "KO"},
-    {evento : "UFC 135", avversario : "RAMPAGE JACKSON", metodo: "SOTTOMISSIONE"},
-    {evento : "UFC 140", avversario : "LYOTO MACHIDA", metodo: "SOTTOMISSIONE"},
-    {evento : "UFC 145", avversario : "RASHAD EVANS", metodo: "DECISIONE UNANIME"},
-    {evento : "UFC 152", avversario : "VITOR BELFORT", metodo: "SOTTOMISSIONE"},
-    {evento : "UFC 214", avversario : "DANIEL CORMIER", metodo: "TKO"},
-    {evento : "UFC 232", avversario : "ALEXANDER GUSTAFSSON", metodo: "TKO"}
+    prima = {evento : "UFC 218", avversario : "ALISTAIR OVEREEM", metodo: "KO"},
+    {evento : "UFC NIGHT", avversario : "CURTIS BLAYDES", metodo: "TKO"},
+    {evento : "UFC NIGHT", avversario : "CAIN VELAZQUEZ", metodo: "KO"},
+    {evento : "UFC 260", avversario : "STIPE MIOCIC 2 ", metodo: "KO"},
 ];
 
 
